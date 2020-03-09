@@ -1,0 +1,283 @@
+#nav{
+    display:flex;
+    background:  white;
+    font-family: arial;
+    color:hsl(216, 30%, 68%);
+    justify-content:flex-end ;
+    height:100px;
+    
+    
+}
+
+#nav a:hover 
+{
+    color: hsl(256, 26%, 20%);
+}
+
+#nav a
+{
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.insure
+{
+    padding-right: 700px ;
+    font-size: 30px;
+    color: hsl(256, 26%, 20%);
+    font-family: DM serif;
+    padding-top: 30px;
+    font-weight: 400;
+}
+
+.one
+{
+    padding-right:10px;
+    padding-top: 40px;
+}
+
+.two
+{
+    padding-right:10px;
+    padding-top: 40px;
+}
+
+.three
+{
+    padding-right:150px;
+    padding-top: 40px;
+}
+
+.four a
+{
+    padding-right:10px;
+    padding-top: 10px;
+    border:1px solid hsl(256, 26%, 20%);
+    text-decoration: none;
+    margin-top:30px;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    position:absolute;
+    top:6px;
+    right:30px;
+    
+ 
+  
+}
+
+.four a:hover{
+     background:hsl(256, 26%, 20%) !important;
+    color:white !important;
+}
+
+#nav2
+{
+    display:flex;
+    height:600px;
+    background:hsl(256, 26%, 20%);
+    color:white;
+    justify-content:space-around;
+     z-index: 1;
+}
+
+.para{
+    padding-left:40px;
+    padding-top: 50px;
+    font-size:70px;
+   
+}
+
+#nav2 span
+{
+    font-size:20px;
+  
+}
+
+.hr1 hr{
+    width:30%;
+    margin-left: 10px;
+}
+
+.pic{
+    padding-right:60px;
+    padding-top: 70px;
+    
+}
+
+#nav2 a{
+    border:1px solid white;
+    text-decoration: none;
+    font-size:20px;
+    color:white;
+    padding: 5px;
+    font-weight: bold;
+    font-family: Montserrat;
+     z-index:2;
+}
+
+#nav2 a:hover{
+    background:white;
+    color:hsl(256, 26%, 20%);
+}
+
+.left{
+    position:absolute;
+    top:500px;
+     z-index: 0;
+}
+
+.right{
+ 
+    position: absolute;
+    right:0px;
+    top:80px;
+}
+
+.hr2 hr{
+    margin-top: 250px;
+    width:20%;
+    margin-left: 80px;
+}
+
+.diff{
+     padding-left:80px;
+    padding-top: 30px;
+    font-size:50px;
+    color:hsl(256, 26%, 20%);
+    font-weight:bolder;
+}
+
+#nav3{
+    display:flex;
+    justify-content: space-between;
+}
+
+.snap{
+    padding-left:80px;
+}
+
+.people{
+      padding-right:60px;
+}
+
+.head{
+    color:hsl(256, 26%, 20%);
+    font-weight:bolder;
+    font-size:40px;
+    
+}
+
+#nav3 span{
+    color: darkgrey;
+    font-size:20px;
+}
+
+#nav4{
+    display:flex;
+    justify-content: space-between;
+     background:hsl(256, 26%, 20%);
+    color:white;
+    height:200px;
+    margin-left: 80px;
+    margin-right: 60px;
+    
+}
+
+#nav4 a{
+   
+  border:1px solid white;
+    text-decoration: none;
+    font-size:20px;
+    color:white;
+    padding: 5px;
+    margin-left:300px;
+    margin-top: 10px;
+    position:absolute;
+    top:1530px;
+    right:200px;
+    z-index:2;
+     
+}
+
+#nav4 a:hover{
+    background:white;
+    color:hsl(256, 26%, 20%);
+}
+
+
+.nav4para{
+    padding-top: 50px;
+    padding-left:100px;
+     font-weight:bolder;
+    font-size:40px;       
+}
+
+.pichow{
+    position:absolute;
+    top:1410;
+    right:70px;
+    z-index: 0;
+}
+
+#nav5{
+    display:flex;
+    justify-content: flex-end;
+}
+
+.logo{
+     padding-right: 900px ;
+}
+
+.fb{
+    padding-right: 10px;
+}
+
+.twitter{
+      padding-right: 10px;
+}
+
+.pint{
+      padding-right: 10px;
+}
+
+.insta{
+      padding-right: 60px;
+}
+
+#nav5 a
+{
+    text-decoration: none;
+}
+
+#nav6{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 100px;
+    
+}
+
+.head6{
+    color:darkgrey;
+}
+
+#nav6 a
+{
+    text-decoration:none;
+    color: hsl(256, 26%, 20%);
+}
+
+#nav6 a:hover{
+    text-decoration: underline;
+}
+
+
+.footer{
+    position:absolute;
+    top: 1700px;
+}
+
+hr{
+width:90%;
+}
